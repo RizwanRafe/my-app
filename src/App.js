@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 import Nav from './Components/Rizwan-Folder/Nav';
-import { Zaki } from './Components/Umair-Folder/Zaki';
+import { Body } from './Components/Umair-Folder/Body';
 
 function App() {
   return (
     <div className="App">
      <Nav/>
-     <Zaki/>
+     <Body/>
     </div>
   );
 }
